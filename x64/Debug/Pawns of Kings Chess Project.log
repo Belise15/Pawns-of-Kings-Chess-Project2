@@ -1,0 +1,7 @@
+﻿  gameSetupForm.cpp
+  mainMenuForm.cpp
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\mainMenuForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  topGamesForm.cpp
+  Generating Code...
+  gameSetupForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Pawns of Kings Chess Project.vcxproj -> C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\Pawns of Kings Chess Project.exe

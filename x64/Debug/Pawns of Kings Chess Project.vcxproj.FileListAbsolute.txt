@@ -1,0 +1,8 @@
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\Pawns of Kings Chess Project.vcxproj.AssemblyReference.cache
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\Pawns of Kings Chess Project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\PawnsofKingsChessProject.gameSetupForm.resources
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\PawnsofKingsChessProject.mainMenuForm.resources
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\Pawns of Kings Chess Project.vcxproj.GenerateResource.cache
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\Pawns of Kings Chess Project.exe
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\PawnsofKingsChessProject.topGamesForm.resources
+C:\Users\betht\source\repos\Games\Pawns-of-Kings-Chess-Project-master\x64\Debug\PawnsofKingsChessProject.playerStatsForm.resources
